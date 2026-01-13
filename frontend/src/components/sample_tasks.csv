@@ -1,0 +1,11 @@
+taskId,title,assignee,status,priority,estimatedHours,actualHours,startDate,endDate,category,notes
+TASK-001,Design Homepage,John Doe,completed,high,8,6,2024-01-01,2024-01-02,Design,Completed early
+TASK-002,API Integration,Jane Smith,in-progress,high,16,20,2024-01-03,2024-01-10,Development,Waiting on third-party
+TASK-003,User Testing,Alice Johnson,todo,medium,8,0,2024-01-05,2024-01-07,Testing,
+TASK-004,Bug Fixes,Bob Brown,completed,high,4,8,2024-01-02,2024-01-04,Development,More complex than expected
+TASK-005,Documentation,Charlie Davis,completed,low,12,10,2024-01-01,2024-01-03,Documentation,
+TASK-006,Database Optimization,John Doe,in-progress,medium,24,16,2024-01-04,2024-01-15,Database,
+TASK-007,UI Polish,Jane Smith,todo,medium,8,0,2024-01-08,2024-01-09,Design,
+TASK-008,Performance Testing,Alice Johnson,completed,high,8,12,2024-01-03,2024-01-06,Testing,Found memory leaks
+TASK-009,Deployment,Bob Brown,todo,high,4,0,2024-01-10,2024-01-10,DevOps,
+TASK-010,Client Meeting,Charlie Davis,completed,low,2,1,2024-01-02,2024-01-02,Meeting,
