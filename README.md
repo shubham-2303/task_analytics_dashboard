@@ -54,6 +54,19 @@ cd task-analytics-dashboard
   # Frontend runs on http://localhost:3000
 
 
+## 🔧 Environment Configuration
+
+This project uses a live backend API in production.
+
+### Frontend API Base URL
+
+const API_BASE = "https://task-analytics-dashboard-2.onrender.com/api";
+
+## For local development, you can update it to:
+
+const API_BASE = "http://localhost:5000/api";
+
+
  ##  API Endpoints
 GET / - API documentation
 
